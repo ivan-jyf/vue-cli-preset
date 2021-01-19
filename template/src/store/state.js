@@ -1,0 +1,2 @@
+// root state
+export default {}
